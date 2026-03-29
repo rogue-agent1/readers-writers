@@ -1,11 +1,9 @@
 # readers-writers
 
-Readers-writers problem simulation.
-
-Zero dependencies. Python 3.8+.
+Readers-writers synchronization. Single-file Python CLI, zero dependencies.
 
 ## Usage
 
 ```bash
-python3 readers_writers.py --help
+python3 readers_writers.py
 ```
